@@ -14,3 +14,6 @@ Beyond the tech, I’m someone who finds joy in the simple things — like the c
 
 ### 🚀 What I’m Looking For
 Collaborators who value curiosity, patience, and shared growth. If you're building something exciting and don't mind mentoring or learning together — I’m here for it.
+
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhmbzUyYXZiMGNhNndzYmFua2U3cmRidnR4cW11N3J2OGpjOWN0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6wJ2bJ0127K0/giphy.gif"/>
