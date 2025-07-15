@@ -20,10 +20,6 @@ Collaborators who value curiosity, patience, and shared growth. If you're buildi
 
 Here are the technologies I'm learning and working with:
 
-## 🧰 Tech Stack
-
-Here are the technologies I'm learning and working with:
-
 <div>
 
   <!-- Core Front-end -->
