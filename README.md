@@ -20,24 +20,23 @@ Collaborators who value curiosity, patience, and shared growth. If you're buildi
 
 Here are the technologies I'm learning and working with:
 
+## 🧰 Tech Stack
+
+Here are the technologies I'm learning and working with:
+
 <div>
-  
+
   <!-- Core Front-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/> &nbsp;
-
-  <!-- Shopify -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/liquid/liquid.svg" alt="Liquid" width="40"/> &nbsp;
-
-  <!-- CMS & Platforms -->
+  <img src="https://img.icons8.com/color/48/shopify.png" alt="Shopify" width="40"/> &nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" alt="Liquid" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40"/> &nbsp;
-
-  <!-- Back-end & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/> &nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="CodeIgniter" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> &nbsp;
