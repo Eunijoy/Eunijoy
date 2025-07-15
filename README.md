@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I’m **Eunijoy**, a curious and determined front-end developer on a journey to master **Shopify theme development**. While I'm early in my path, I’m diving headfirst into **Liquid logic**, **responsive design**, and **custom schemas** — eager to learn, build, and evolve with every line of code.
+Hey there! I’m **Mirai**, a curious and determined front-end developer on a journey to master **Shopify theme development**. While I'm early in my path, I’m diving headfirst into **Liquid logic**, **responsive design**, and **custom schemas** — eager to learn, build, and evolve with every line of code.
 
 My hunger for growth drives me to explore best practices, troubleshoot challenges, and align designs closely with tools like **Figma**. I’m not afraid of deep work and believe that precision paired with creativity creates seamless user experiences.
 
