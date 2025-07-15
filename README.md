@@ -16,4 +16,30 @@ Beyond the tech, I’m someone who finds joy in the simple things — like the c
 Collaborators who value curiosity, patience, and shared growth. If you're building something exciting and don't mind mentoring or learning together — I’m here for it.
 
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhmbzUyYXZiMGNhNndzYmFua2U3cmRidnR4cW11N3J2OGpjOWN0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6wJ2bJ0127K0/giphy.gif"/>
+## 🧰 Tech Stack
+
+Here are the technologies I'm learning and working with:
+
+<div>
+  
+  <!-- Core Front-end -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/> &nbsp;
+
+  <!-- Shopify -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/liquid/liquid.svg" alt="Liquid" width="40"/> &nbsp;
+
+  <!-- CMS & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="Webflow" width="40"/> &nbsp;
+
+  <!-- Back-end & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> &nbsp;
+
+</div>
