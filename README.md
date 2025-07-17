@@ -38,3 +38,4 @@ Here are the technologies I'm learning and working with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> &nbsp;
 
 </div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eunijoy" alt="GitHub Streak" /></a>
