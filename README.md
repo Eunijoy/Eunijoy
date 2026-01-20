@@ -4,95 +4,80 @@
 
 ---
 
-## 🎮 PLAYER PROFILE
+<h2 align="center">🎮 PLAYER PROFILE</h2>
 
-**Name:** Mirai  
-**Class:** Indie Education Developer  
-**Specialization:** Game Dev · Growth Systems · Learning Platforms  
-**Current Quest:** *From Zero To Hero*  
-**Inspiration Buff:** Michael Hyatt  
+<p align="center">
+  <b>Name:</b> Mirai <br/>
+  <b>Class:</b> Indie Education Developer <br/>
+  <b>Specialization:</b> Game Dev · Growth Systems · Learning Platforms <br/>
+  <b>Current Quest:</b> <i>From Zero To Hero</i> <br/>
+  <b>Inspiration Buff:</b> Michael Hyatt
+</p>
 
-> 🧠 *XP is gained by building, not watching.*
-
----
-
-## 🧱 MAIN QUEST
-
-### 🏆 FROM ZERO TO HERO
-**Growth Helper Platform**
-
-🧭 A system designed to help beginners:
-- Start from zero
-- Build momentum
-- Gain real skills
-- Level up consistently
-
-🎯 Core Mechanics:
-- Daily progress system
-- Habit-based growth
-- Beginner-friendly paths
-- Real-world application
+<p align="center"><i>🧠 XP is gained by building, not watching.</i></p>
 
 ---
 
-## 🔥 Coding Streak (GitHub Activity)
+<h2 align="center">🧱 MAIN QUEST</h2>
 
-> Days with continuous coding commits
+<h3 align="center">🏆 FROM ZERO TO HERO</h3>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true)
+<p align="center">
+  <b>Growth Helper Platform</b>
+</p>
+
+<p align="center">
+  Start from zero • Build momentum • Gain real skills • Level up consistently
+</p>
+
+<p align="center">
+  🎯 Daily progress system <br/>
+  🎯 Habit-based growth <br/>
+  🎯 Beginner-friendly paths <br/>
+  🎯 Real-world application
+</p>
 
 ---
 
-## 🧰 SKILL TREE
+<h2 align="center">🔥 CODING STREAK</h2>
+
+<p align="center">
+  <i>Days with continuous coding commits</i>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">🧰 SKILL TREE</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,mongodb,oracle,unity,git,github,vscode" />
 </p>
 
-### 🌱 Starter Skills
-- HTML / CSS
-- JavaScript
-- Git & GitHub
-
-### ⚔️ Core Abilities
-- Java
-- Spring Boot
-- REST APIs
-
-### 🧙 Advanced Knowledge
-- Oracle DB
-- MongoDB
-- JWT Authentication
-
-### 🎮 Game Dev
-- Unity 2D
-- Sprites & Assets
-- Game Logic Systems
+<p align="center">
+  🌱 <b>Starter:</b> HTML · CSS · JavaScript · Git <br/>
+  ⚔️ <b>Core:</b> Java · Spring Boot · REST APIs <br/>
+  🧙 <b>Advanced:</b> Oracle · MongoDB · JWT <br/>
+  🎮 <b>Game Dev:</b> Unity 2D · Sprites · Game Logic
+</p>
 
 ---
 
-## 🧠 CURRENT TRAINING MODE
+<h2 align="center">🧠 CURRENT TRAINING MODE</h2>
 
-- 🎮 Unity 2D Game Development
-- 🏗️ Clean Architecture (Java / Spring Boot)
-- 🔐 API Security (JWT, Auth Flows)
-- 🎓 Building Education-first Products
-
----
-
-## 🧩 SIDE QUESTS (COMING SOON)
-
-- 🎨 Custom Game Assets
-- 📊 Player Progress Tracking
-- 🗺️ Learning Map System
-- 🏅 Achievement Badges
+<p align="center">
+  🎮 Unity 2D Game Development <br/>
+  🏗️ Clean Architecture (Java / Spring Boot) <br/>
+  🔐 API Security (JWT, Auth Flows) <br/>
+  🎓 Education-first Product Building
+</p>
 
 ---
 
-## 🏹 PLAYER STATS
+<h2 align="center">🏹 PLAYER STATS</h2>
 
-```txt
-Discipline      ██████████░░ 90%
-Consistency     █████████░░░ 85%
-Focus           ████████░░░░ 80%
-Motivation      ██████░░░░░░ 70% (boosted by momentum)
+<p align="center">
+
