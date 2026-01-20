@@ -39,18 +39,6 @@
 
 ---
 
-<h2 align="center">🔥 CODING STREAK</h2>
-
-<p align="center">
-  <i>Days with continuous coding commits</i>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">🧰 SKILL TREE</h2>
 
 <p align="center">
@@ -76,8 +64,3 @@
 </p>
 
 ---
-
-<h2 align="center">🏹 PLAYER STATS</h2>
-
-<p align="center">
-
