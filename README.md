@@ -35,13 +35,11 @@
 
 ---
 
-## 🔥 CONTRIBUTION STREAK
+## 🔥 Coding Streak (GitHub Activity)
 
-> Based on GitHub commits & activity (auto-tracked)
+> Days with continuous coding commits
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true)
 
 ---
 
