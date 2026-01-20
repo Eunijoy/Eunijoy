@@ -17,83 +17,21 @@
 <p align="center"><i>🧠 XP is gained by building, not watching.</i></p>
 
 ---
-
-<h2 align="center">🧱 MAIN QUEST</h2>
-
-<h3 align="center">🏆 FROM ZERO TO HERO</h3>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <b>Growth Helper Platform</b>
-</p>
-
-<p align="center">
-  A system designed to help beginners grow through clarity, consistency, and small wins.
-</p>
-
-<p align="center">
-  🎯 Daily progress system <br/>
-  🎯 Habit-based growth <br/>
-  🎯 Beginner-friendly learning paths <br/>
-  🎯 Real-world application
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eunijoy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">🧰 SKILL TREE</h2>
-
-<h3 align="center">⚔️ CURRENT BUILD (ACTIVE)</h3>
+<h2 align="center">📈 ACTIVITY GRAPH</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,supabase,postgres,git,github,vscode" />
-</p>
-
-<p align="center">
-  <b>Frontend:</b> HTML · CSS · JavaScript · React <br/>
-  <b>Backend / BaaS:</b> Supabase <br/>
-  <b>Database:</b> PostgreSQL <br/>
-  <b>Tools:</b> Git · GitHub · VS Code
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eunijoy&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
-
-<h3 align="center">🧭 FUTURE EXPLORATION</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,java,spring,android,flutter" />
-</p>
-
-<p align="center">
-  🎮 Unity (2D Game Development) <br/>
-  ☕ Java & Spring Boot <br/>
-  📱 Mobile App Development
-</p>
-
-<p align="center"><i>Unlocked gradually — one skill at a time.</i></p>
-
----
-
-<h2 align="center">🧠 CURRENT TRAINING MODE</h2>
-
-<p align="center">
-  ⚛️ Building React-based web apps <br/>
-  🗄️ Using Supabase + PostgreSQL for real projects <br/>
-  🧩 Designing systems for learning & growth <br/>
-  🎓 Building education-first products
-</p>
-
----
-
-<h2 align="center">🏹 PLAYER STATS</h2>
-Consistency █████████░░░ 85%
-Focus ████████░░░░ 80%
-Execution ███████░░░░░ 75%
-Exploration █████████░░░ 85%
-
-
-</p>
-
-<p align="center">
-  🛠️ Building from zero, every single day.
 </p>
 
 <p align="center">
