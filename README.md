@@ -43,15 +43,6 @@
   <img src="https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eunijoy&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eunijoy&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🧰 SKILL TREE
