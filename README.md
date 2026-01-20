@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mirai%20%7C%20Indie%20Game%20%26%20Education%20Dev&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Indie+Education+Developer;Unity+2D+Game+Dev;From+Zero+To+Hero+Builder;Leveling+Up+Every+Day+%F0%9F%8E%AE" />
 </p>
 
@@ -39,11 +35,18 @@
 
 ---
 
-## 🔥 XP STREAK (LIVE)
+## 🔥 CONTRIBUTION STREAK
+
+> Based on GitHub commits & activity (auto-tracked)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Eunijoy&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eunijoy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eunijoy&show_icons=true&theme=tokyonight&hide_border=true" />
